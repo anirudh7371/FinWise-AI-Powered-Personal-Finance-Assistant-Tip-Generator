@@ -50,7 +50,7 @@ finwise/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/anirudh7371/Finwise.git
+git clone https://github.com/anirudh7371/FinWise-AI-Powered-Personal-Finance-Assistant-Tip-Generator.git
 cd finwise
 ```
 
