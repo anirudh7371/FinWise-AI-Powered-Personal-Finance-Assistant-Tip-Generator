@@ -4,7 +4,7 @@ services:
   finwise-ai:
     build: .
     ports:
-      - "8000:8000"
+      - "10000:10000"
     environment:
       - GOOGLE_API_KEY=${GOOGLE_API_KEY}
       - ENVIRONMENT=production
